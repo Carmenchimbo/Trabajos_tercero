@@ -1,0 +1,15 @@
+C:\Trabajos_tercero\Semana6_ejercicio_2\bin\Debug\net9.0\Semana6_ejercicio_2.exe
+C:\Trabajos_tercero\Semana6_ejercicio_2\bin\Debug\net9.0\Semana6_ejercicio_2.deps.json
+C:\Trabajos_tercero\Semana6_ejercicio_2\bin\Debug\net9.0\Semana6_ejercicio_2.runtimeconfig.json
+C:\Trabajos_tercero\Semana6_ejercicio_2\bin\Debug\net9.0\Semana6_ejercicio_2.dll
+C:\Trabajos_tercero\Semana6_ejercicio_2\bin\Debug\net9.0\Semana6_ejercicio_2.pdb
+C:\Trabajos_tercero\Semana6_ejercicio_2\obj\Debug\net9.0\Semana6_ejercicio_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Trabajos_tercero\Semana6_ejercicio_2\obj\Debug\net9.0\Semana6_ejercicio_2.AssemblyInfoInputs.cache
+C:\Trabajos_tercero\Semana6_ejercicio_2\obj\Debug\net9.0\Semana6_ejercicio_2.AssemblyInfo.cs
+C:\Trabajos_tercero\Semana6_ejercicio_2\obj\Debug\net9.0\Semana6_ejercicio_2.csproj.CoreCompileInputs.cache
+C:\Trabajos_tercero\Semana6_ejercicio_2\obj\Debug\net9.0\Semana6_ejercicio_2.sourcelink.json
+C:\Trabajos_tercero\Semana6_ejercicio_2\obj\Debug\net9.0\Semana6_ejercicio_2.dll
+C:\Trabajos_tercero\Semana6_ejercicio_2\obj\Debug\net9.0\refint\Semana6_ejercicio_2.dll
+C:\Trabajos_tercero\Semana6_ejercicio_2\obj\Debug\net9.0\Semana6_ejercicio_2.pdb
+C:\Trabajos_tercero\Semana6_ejercicio_2\obj\Debug\net9.0\Semana6_ejercicio_2.genruntimeconfig.cache
+C:\Trabajos_tercero\Semana6_ejercicio_2\obj\Debug\net9.0\ref\Semana6_ejercicio_2.dll
