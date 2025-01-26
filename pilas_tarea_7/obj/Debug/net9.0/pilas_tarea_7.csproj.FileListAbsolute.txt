@@ -1,0 +1,15 @@
+C:\Trabajos_tercero\pilas_tarea_7\bin\Debug\net9.0\pilas_tarea_7.exe
+C:\Trabajos_tercero\pilas_tarea_7\bin\Debug\net9.0\pilas_tarea_7.deps.json
+C:\Trabajos_tercero\pilas_tarea_7\bin\Debug\net9.0\pilas_tarea_7.runtimeconfig.json
+C:\Trabajos_tercero\pilas_tarea_7\bin\Debug\net9.0\pilas_tarea_7.dll
+C:\Trabajos_tercero\pilas_tarea_7\bin\Debug\net9.0\pilas_tarea_7.pdb
+C:\Trabajos_tercero\pilas_tarea_7\obj\Debug\net9.0\pilas_tarea_7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Trabajos_tercero\pilas_tarea_7\obj\Debug\net9.0\pilas_tarea_7.AssemblyInfoInputs.cache
+C:\Trabajos_tercero\pilas_tarea_7\obj\Debug\net9.0\pilas_tarea_7.AssemblyInfo.cs
+C:\Trabajos_tercero\pilas_tarea_7\obj\Debug\net9.0\pilas_tarea_7.csproj.CoreCompileInputs.cache
+C:\Trabajos_tercero\pilas_tarea_7\obj\Debug\net9.0\pilas_tarea_7.sourcelink.json
+C:\Trabajos_tercero\pilas_tarea_7\obj\Debug\net9.0\pilas_tarea_7.dll
+C:\Trabajos_tercero\pilas_tarea_7\obj\Debug\net9.0\refint\pilas_tarea_7.dll
+C:\Trabajos_tercero\pilas_tarea_7\obj\Debug\net9.0\pilas_tarea_7.pdb
+C:\Trabajos_tercero\pilas_tarea_7\obj\Debug\net9.0\pilas_tarea_7.genruntimeconfig.cache
+C:\Trabajos_tercero\pilas_tarea_7\obj\Debug\net9.0\ref\pilas_tarea_7.dll
